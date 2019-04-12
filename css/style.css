@@ -1,6 +1,5 @@
 
 
-
 h1 {
 	text-align: center;
 	color: purple;
@@ -10,4 +9,9 @@ h1 {
 p {
 	color: #081398;
 
+}
+
+#secondary {
+	color: papaya;
+	font-size: 7px;
 }
