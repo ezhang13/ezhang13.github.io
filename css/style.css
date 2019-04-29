@@ -2,18 +2,21 @@
 
 h1 {
 	text-align: center;
-	color: purple;
+	color: black;
 	font-size: 40px;
+	font: "Comic Sans MS";
 }
 
 p {
 	color: #081398;
+	font: "Comic Sans MS";
 
 }
 
 #secondary {
 	color: #973007;
 	font-size: 7px;
+	font: "Comic Sans MS";
 }
 
 nav {
