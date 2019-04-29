@@ -15,3 +15,15 @@ p {
 	color: #973007;
 	font-size: 7px;
 }
+
+nav {
+	text-align: center;
+}
+
+a,
+a:link,
+a:active,
+a:visited {
+	text-decoration: none;
+	color: pink;
+}
