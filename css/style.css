@@ -4,19 +4,19 @@ h1 {
 	text-align: center;
 	color: black;
 	font-size: 40px;
-	font-family: Comic Sans MS;
+	font-family: "Comic Sans MS";
 }
 
 p {
 	color: #081398;
-	font-family: Comic Sans MS;
+	font-family: "Comic Sans MS";
 
 }
 
 #secondary {
 	color: #973007;
 	font-size: 7px;
-	font-family: Comic Sans MS;
+	font-family: "Comic Sans MS";
 }
 
 nav {
